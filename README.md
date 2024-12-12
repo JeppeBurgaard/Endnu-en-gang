@@ -1,2 +1,3 @@
-From rocker/rstudio
-run apt/wgd nej
+
+From rocker/studio
+run apt/wgd JA
