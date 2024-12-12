@@ -1,2 +1,2 @@
-# Hvorfor igen nu? Burde det ikke være færdig?
-Pas 
+From rocker/rstudio
+run apt/wgd nej
